@@ -1,0 +1,2 @@
+# PartyInvites
+basic mvc application 
